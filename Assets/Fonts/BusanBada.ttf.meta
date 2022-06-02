@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2fc5fc77fc52c584fbd1a4d14ae2d236
+timeCreated: 1509280045
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BusanBada
+  fontNames:
+  - BusanBada
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
